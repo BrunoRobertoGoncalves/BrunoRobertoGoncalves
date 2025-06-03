@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Bruno 👋</h1>
-<p align="center">Full Stack Developer • Software Development Student • Tech Enthusiast</p>
+<p align="center">Full Stack Developer • Software Development Student</p>
 
 ---
 
