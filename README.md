@@ -1,20 +1,20 @@
-<h1 align="center">Hey there! I'm Bruno 👋</h1>
+<h1 align="center">Hey there! I'm Bruno</h1>
 <p align="center">Full Stack Developer • Software Development Student</p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Hi! I'm Bruno, a software development student passionate about building creative and useful solutions through code.
 
-- 🎓 Currently studying Software Development at FATEC Taquaritinga
-- 💻 I enjoy working with both frontend and backend technologies  
-- 🧠 Learning more about Python, Machine Learning, and Web APIs  
-- 📫 Feel free to reach out: goncalves.roberto.bruno@gmail.com
+- Currently studying Software Development at FATEC Taquaritinga
+- I enjoy working with both frontend and backend technologies  
+- Learning more about Python, Machine Learning, and Web APIs  
+- Feel free to reach out: goncalves.roberto.bruno@gmail.com
 
 ---
 
-### 🚀 Technologies I Use
+### Technologies I Use
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
@@ -27,7 +27,7 @@ Hi! I'm Bruno, a software development student passionate about building creative
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRobertoGoncalves&layout=compact&theme=midnight-purple&hide_border=true" />
